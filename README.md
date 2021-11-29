@@ -4,12 +4,12 @@
 <p> What is python GUI : <br><br>
 Python offers multiple options for developing GUI (Graphical User Interface). ... It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
 </p> 
-<br><br>
+<br>
 <p> About this project : <br><br>
 <p>
 Simple pycharm starting gui page using Tkinter module in python.
 </p>
-
+<br><br>
 
 ## 📌 Tech Stack:
 <br><br>
