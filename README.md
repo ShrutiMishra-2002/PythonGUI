@@ -28,6 +28,12 @@ Python offers multiple options for developing GUI (Graphical User Interface). ..
 <br><br>
 <img src="editorgui.png" alt="output1" width="700px" height="400px">
 <br><br>
+<img src="label.png" alt="output2" width="700px" height="400px">
+<br><br>
+<img src="buttongui.png" alt="output3" width="700px" height="400px">
+<br><br>
+<img src="printgui.png" alt="output4" width="700px" height="400px">
+<br><br>
 
 <h2>📌 Contact :</h2>
 <br><br>

@@ -13,7 +13,6 @@ l1.pack()
 photo=PhotoImage(file="py.png")
 photo_label = Label(image=photo , height=500 , width=500)
 photo_label.pack(side = "bottom",anchor="n")
-
 root.mainloop()
 
 
