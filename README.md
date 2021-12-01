@@ -34,6 +34,8 @@ Python offers multiple options for developing GUI (Graphical User Interface). ..
 <br><br>
 <img src="printgui.png" alt="output4" width="700px" height="400px">
 <br><br>
+<img src="widget&gridgui.png" alt="output5" width="700px" height="400px">
+<br><br>
 
 <h2>📌 Contact :</h2>
 <br><br>
