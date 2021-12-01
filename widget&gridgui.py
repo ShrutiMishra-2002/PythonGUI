@@ -2,7 +2,13 @@ from tkinter import *
 from tkinter import messagebox
 root=Tk()
 root.geometry=("655x333")
+root.minsize(544,344)
+root.maxsize(544,344)
+
 root.title("widget and grid gui")
+# head=Label(text="HERE IS MY DETAILS!!")
+# head.pack()
+
 def submit():
     print(firstnamevalue.get())
     print(surnamevalue.get())

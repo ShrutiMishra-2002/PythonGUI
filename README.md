@@ -21,21 +21,27 @@ Python offers multiple options for developing GUI (Graphical User Interface). ..
 
 ## 📌 Main Page:
 <br><br>
-
+<h4>PYCHARM WINDOW</h4>
 <img src="guicode.png" alt="mainpage" width="700px" height="400px">
 <br><br>
 <img src="pycharmgui.png" alt="output" width="700px" height="400px">
 <br><br>
+<h4>EDITOR WINDOW</h4>
 <img src="editorgui.png" alt="output1" width="700px" height="400px">
 <br><br>
+<h4>BUTTON SECTION</h4>
 <img src="label.png" alt="output2" width="700px" height="400px">
 <br><br>
 <img src="buttongui.png" alt="output3" width="700px" height="400px">
 <br><br>
 <img src="printgui.png" alt="output4" width="700px" height="400px">
 <br><br>
-<img src="widget&gridgui.png" alt="output5" width="700px" height="400px">
+<h4>DETAILS FORM WINDOW</h4>
+<img src="widget&gridgui1.png" alt="output5" width="700px" height="400px">
 <br><br>
+<img src="widget&gridgui2.png" alt="output6" width="700px" height="400px">
+<br><br>
+
 
 <h2>📌 Contact :</h2>
 <br><br>
