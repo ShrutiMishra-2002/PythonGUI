@@ -27,7 +27,9 @@ Python offers multiple options for developing GUI (Graphical User Interface). ..
 <img src="pycharmgui.png" alt="output" width="700px" height="400px">
 <br><br>
 <h4>EDITOR WINDOW</h4>
-<img src="editorgui.png" alt="output1" width="700px" height="400px">
+<img src="editorgui2.png" alt="output1" width="700px" height="400px">
+<br><br>
+<img src="editorgui1.png" alt="output1" width="700px" height="400px">
 <br><br>
 <h4>BUTTON SECTION</h4>
 <img src="label.png" alt="output2" width="700px" height="400px">
