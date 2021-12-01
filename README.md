@@ -7,7 +7,7 @@ Python offers multiple options for developing GUI (Graphical User Interface). ..
 <br>
 <p> About this project : <br><br>
 <p>
-1.Simple pycharm starting gui page using Tkinter module in python.
+1.Simple pycharm starting gui page using Tkinter module in python.<br>
 2.Simple editor screen gui using Frame in Tkinter module in python.
 
 </p>
