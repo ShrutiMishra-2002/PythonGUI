@@ -13,6 +13,7 @@ def submit():
     print(firstnamevalue.get())
     print(surnamevalue.get())
     messagebox.showinfo("Message","submitted")
+
 firstname=Label(root,text="firstname")
 firstname.grid(row=0,padx=6)
 surname=Label(root,text="surname")
